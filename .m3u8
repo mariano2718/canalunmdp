@@ -1,55 +1,2338 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:38789
-#EXT-X-TWITCH-LIVE-SEQUENCE:38789
-#EXT-X-TWITCH-ELAPSED-SECS:76965.880
-#EXT-X-TWITCH-TOTAL-SECS:76997.880
-#EXT-X-DATERANGE:ID="playlist-creation-1704720740",CLASS="timestamp",START-DATE="2024-01-08T13:32:20.998Z",END-ON-NEXT=YES,X-SERVER-TIME="1704720741.00"
-#EXT-X-DATERANGE:ID="playlist-session-1704720740",CLASS="twitch-session",START-DATE="2024-01-08T13:32:20.998Z",END-ON-NEXT=YES,X-TV-TWITCH-SESSIONID="1871547176933476265"
-#EXT-X-DATERANGE:ID="source-1704720710",CLASS="twitch-stream-source",START-DATE="2024-01-08T13:31:50.414Z",END-ON-NEXT=YES,X-TV-TWITCH-STREAM-SOURCE="live"
-#EXT-X-DATERANGE:ID="trigger-1704720710",CLASS="twitch-trigger",START-DATE="2024-01-08T13:31:50.414Z",END-ON-NEXT=YES,X-TV-TWITCH-TRIGGER-URL="https://video-weaver.bue01.hls.ttvnw.net/trigger/Cs0FH4oP-t2Rczi8SzDmK5I9vA1uS4CGacWRlzUuaN29PUtnFjKJvc4D4NtrWdV3n2r66wC6sHYz913xIO5cb-vn-5Hxg_E0AEXPPxp8-x7bx6wMvb4OkY92IAIr6xFxpOfKqWoI7f8AKJZS0kIztiFQnPD5MJSuNYHZoW4Hbnww-OmowTCwcT5cpChuB0hNUvSPCdsqi2TeIDs8SYZrSMU6wahdievVJ-yVipGjzb62A3fqPMJFigax-uelK8rgTb0PRcVopE4zQ9SUnZa_DqXEMQQfnX90JF4T2vSBIwJXWPWrXSURcRKS5L8q0KzwTgQSP4PVxT0GMD42CqFfsah1_wMu2o5birPjNALkF7FyKPaCnkjRWcZTbjKnQlY8oY2fB0fo4DcfACpsX_mcLXG4zXEbWwykj0T4TNwXLpfiilTaU70T9pVBl6lMMfmhlGiP4UEI5IFfEPArYXAso43hI0kaQhQFgW6mo4kKkXo4wTBZ2vofmx5ATVeaoI3L_bdruApv5aP1RVRbHFZdyZIgYHHbBmeRUd_Vk04loIk9yopC8T8DdPTlJAMe55qrYcK1giX7EYOGUKsnKH5DXb3P42VZfRYD1Bbf6x6_0WbLZ33Bo3TWiT6LAdtL0luX_Q_e1s0jHIhE5VuoQxpmeODDZOq6fI0sYmpPbYeDXif-2xo2d2dz1Qv53a7JjR-CIyHOfGT1XTld1rxpJ-_4Gc8q23gd5lp3qWoRUt4OWne5GN3OrPNb1SMZQffmH3EDMtU_vpo4VRT8uI7ttOh4dUXusk7tOrIpJvGS5GmeWmR1MXiMGmbEUqBqLhpWM7c0aSMKlNbDARwENaMZPQMPgjbo-SyP64XqRrOd09cfdoOwwE1x2QBhpfa9U3Ume3fAC8r-d4Z6eVJt6dvXakB--YIi5l2G5gN4i8KDO60gA9ADSuMMUfaVrLn-DaH9lkoIGgz4k4XZs2hALtfRa38gASoJdXMtZWFzdC0xMOwG"
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T13:0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFRNv42T2MjHGcMoVgklhUbZiEtPPPKVKBUWKJ9ZlWC8zi01Hfh_ViReuOo6fnJKVzUfJtohenM92L70_rGH8F_Xvb6RXzIlNhg4KQV4d-V_zCHnNFRbeygigUcRaBBJtgeq79aTZrbCetw6AzmTFP_h267MOGoZ_2NN06jowt5U56xdCVSEaG9PfAuerBHp6TokYT7YeSYhnEVjk0oaANzd4POtSk-4gpi3MRx8x39YN14OemgImx1Ot-qpPMPv0WMTQD757JlnKosTx4ShCSgEw9iAw2VlaBYa-j1GL6lcjPuaOxb2mpi28fRShOEsFnE6ZCfirSEdYRX24xTbbncjMm5pw3zma7zYEE0OePlWphYcjekWPXJR1GWtOCM4Oj1Rt0_ZmvzyHAH7UVqssqluohJt8zYsqJ-oNutN-ZjgZ8IacCD5xJKOpYJeeIJkAPM6_4CSYqg4Ybn7CcdH5dytappidPZ_-CACUlf7-j4lYX3ejOQk_1Ia9ws0_FX_PgtVW8z4ndOCVIckO71d568msubwwCmnJz911nUTeKnagjrBpst4jLDlUlbcLkGrwbW_vwvqpv1b_R8piuC3pI_vWtK0Uv_2_SsS21EP0BuIRKJhGaJE2LTnnMyXMdxPCAB7r7fZn3RQNavsOenMDWlbQ-soxZiRrfL7rmS0_u77LlfKyGUSk7gvQYRLrlGcSWruYn2-JGOlKkoEl8dwkVAi0r1p3AZxyptpTNu2UB0wmoBd9uCDwfuSBVfZowMQfcwj_DKknGUQ1jPNo2B_SYzHliT0J8BxtQjQEPB_9M9Qp_2UJ39k-5dPoBXNZrFoOYQucHHf6aiEemW0r6vR9YjEFrXRfbl2yr7HieyNLMauSjWyMbOTmbEbk9I0uOcfMtR73AxrJZwcEx2AYYKt--q-FpdetatbfXHe95hh1LKagkJjnvJCRGRyBlWevBFpeICWN7umlNP7npCdb3sHWcn5q4CMEaDD7c2qlwA10ou56eQyABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFyT5OUOlg5V3wPJ-bpc_NZve-f9xN-ochBH9Q34BJp7OxtNBo4YCAh2GdyXQFzpVhv3gnuBVbycwkx6QbXZa-a4k9NgiQD9vj_OLm2pqF3fTQr-13XYyCs0KM6s43zYXyMZf1vaDYKAA9D8ux1If58_tCijJRXIijd-wTxFyAHi6YAlWDCHUGyYRjbRqUDaK7DyYDUA0xI_PFeePBAYrL6CxcsptbS6dyLWY053PJ8Kywpg4VkcGh_GxLQID_TvpCzL3crXTfceUMBzn82PzONt6W0qSyE1PTYI2bk05JbAVWGE3XNjuwJVK1n4t7gfDloL7DMhVLMptxdgHEyblZF9_T74UYio-gAAV1O1tWn4GkbcEIEQL7GK_t7yIeVvX3Yi7_gcIIrrFqBwTBCfcD1dZCy9DO1nBwmokuAQBEC7TGOsTKNOR5cXaiAFJqkhgGTDvftSd5a0QCcgoLPsNLWFRffmxqvQ2lDim8O6xEprzI5Qic4AzjNy_Jz6NhVLDheyrKw663VJ97uf-fy9MBei1Wj9WDxfLcEIhW9yRHVICwu6HeIxpabjhp_cNzb-8zXFvp9s5ehqgdUa7UtW9WR33OJVJhaqwsFJY4c_RnSW1ySxJKf5BRbRXwckEBxBJUO6RvVDIm8s1Ac6V4f5rN9o9H2odk0frawSPLItifbEI5G1uUIPZDQ6nGNlY3pYgLz7drZoJFsWVHhuUNzUBrQskXbCNOo1jkgYz8F1Pj34M27T5WZyfFcYtzu_jB_2tNvDInKpJs8yjJx25d3JuTlYPucqJMBsBG-Wg24uYBm7OCl0ifQddcx-h5YOs-A7kxa0Eui9Vb4cPIcpwi3mo7z3azSBbCZISab7Iy6YFHhslZdYy0pzRluBjs4rn7wESqXwgd56Klz-5LfNSQds-uGt2Ooju2FBLbqzA80H_Fkh3n-N2-FWUUasBV2p_jaRZbGi1Xh2nmjqc36TNBNEi97rTl8mcaDPKYduecBEP2eI7lKiABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFhLfpASFq6e08PcDTNClUhIJT3RFw7pAEHiML7wY8QxBJAXDe-L3p5cmaRevpDLQgYCIs_TBkRZBu0OLq4yhrSOeYrMXtk8OBS-g3t7ZMWRCVTDfvHBkomAWac37zB2c7NJ0KLuyKD5uTpADTy5elkSJBEjcUn7Dwp4OJMCUKlt_oEbNyxQP0kl2tH89GyQmV-bEYZ6bQm3Ib36du5BSLu8ar3vZgpkvQYFnbr490GWPYB3YlCkGrAMFISNTm3nJHEWOrrt7VZIH52I9ZNs9BYN0vGT7DX8gJqrUcPyi10kwItycJYiYKMlH0-u01xPVFwAa7fFimXy2twM_7j76LklXcZgiOikSD-mouSe8nUxYjW59WOxLm2hIJTIb-FyGGY8gTR35BavTtNsE1TEqDxNBFssPffXmeYZGk-yLoaKzAsokv5wCuDqrWewV4BKl9AMV1z2L7KEYEUVIUMOUKUBMfJW7KcaRtY4pXEkMiNyY41KPJijH4eKRRFxEgsO4jnpegmb6OmCqrShNnkryauTbaDaNfLaj3yp-QzPtdSsBvjk0Bmtng7vMLSUL3-LH2WXQYewTNBvqrnxcMTxn-e03IBLODmqVIeH7D1Hy05_Tlj5ifDxSg6F4OO5qQ8IhLzX_5vnm5PjwS4Z2FG4A77DoH1pcVd1EfCQBNN4w_V1UBoo8hleFRX2ZUs3BqD7Gh3ymwemHWOmnvtA6n4oGpW7joJyHM_0wzFLc7k34t1d-DbEeFmk9bYSFPoxKAPWOoFxNYLVpOZsKl10ZgY38o9fktwY-_IHgw92HafWb_nCg3FisI8n1Z-L3lOXyLtcMdxC0rb_i_BxyZoP4dAtj-Y9L9fkvcqQRahbSyZZkTf_T8-GPRAYae3gx3xacc42PeEkqqGac35JBcG5Yiio4U-gGs2Ae2qb5JtOEM0aLNXmaL2yUvmcajdJZ_pQhsrFumFxMByLaFmMcRZrmSqCuVMKC7ZhsaDHxiZ1uUIoD2ukdqGiABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFf4q-GrY4ukBj9ZlYbhv5_yRE8bD8GrJiLkX_v_z6wufUYxZP-mTMTuV7UF0TeR37OBC_CTwvoMpzhOWgkDOkfcSagssKS6oXCuAu4EzQ-tFcV7fg2tgszmEm1uc0zARMVJrpC33az9QmGxhor5Lr3kuQcWPvImtVBavh3vk61yoqGTuNER_Q1CMrPC7EiVrC5dkFmP9HZ6uELT3UyOrtBfaYvVGGY43dNVt0XifRarwMSBmb4wgRqHLWvIFQq-2jAXojrbI1RymlrjAJBWRTbDKAL6JuP1smtSx9y9emnAG7H4ZlbDwCsDEezgG3c58Pm0YRyu_DkUofnwHFObnpRpR0poUBLh08n3WaCaslp_M-_Hm7O25PYXgcWcA4Q0joUEET2LzEPXfm_3UnRFSEBCYEn1RAjK8WxAwbc0krqTZTnmQ3wVF5yXitp-2LTH0eWVq-Cj-AX0N8CWaS78sjwmQiAVX1kn4JEikUEWy_3t1YSpYqVgCdZ7MwutnwH4goruZrepbc28u0H8lv5hUY0u2arrCRPWaI9dw7dS6ghMEEkoUAYgJ2RijsnPlaIE_ce-zo095r_rlIutQRR-Gzh6t7vSng5-zSkTNBfVTSyMDHcuvOrJyMUmorC3n-rOWARNzv25utYkQknbuoIdRZ3uVYLTD71SEH3-mo02UNGkFFeUlPEkuss2QkOe7RJYjfJodvUuRCcnQPXdQq-849DahugUgkosFxsDtznsVh9XsTpm9FwK5zXSKqBkYosaztDG_MKVwZtG6q0aKmq3uHgfpgTbDzthmMzth61WLhDYFcQq12zBoLecvHJm0CE9XKriTBHYjt_Sfueb9uyxrcvnXPUPKGPLY2riL5CaUawR_U9de9DJRRYuNdD_zlxvqE7Xi69vHfYtADzMAAvq6pWn73kCaSvy1Rd7RlFA5K_EQfrv1q-ljl0XpbHjcCfcAIGLSQ2JwR0yI5EePrA2c2L7qwYJ8aDJyHQfP5txbSV34VsSABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFv0m8aQ6dZndV8dAQogdH5YkBnRmyBgYGqECxoH5mBGb3Bon37Cj9Yr-cK0U8KdYx0SaPsCLHt8y2iG-L6XdI_CjeNXLqRAeYrwjoZ7P0lOwJT9JhGE5vpH6jYA1Bkj_GpQ9t5AIhX6iEXqkSXhPd8QZc5c8IXrlG60ANTXyjTDn7kP7wP9w0O2A14o4_6AMQYTEUGGmEEawZ53Ydf1cY2uqanzXW5qEpRcPAfxa5EUpcUnEqGylBK2UmxS3PoaWnCZnF-OHVOQmPr4CrGQXouS54bHw3HqFUCdSy3wxNWFHNqQwr8pTHUOf4YNY3t_lkU_mhWgpcGDSCs_HFRbSM5uRWAogRvdParU_wUhEFOe4GfjBJGLHEeWCPMqfr1VBlwHlKqRrrAy22aFurj9o61hYpoO-BSlWd0ZzD7EeF4-56D_PjCHm1B2y_5I3Om1ckgmNGsSwuy2Xtm2pgJ1-iSutdwcT_lZqBBMDt8o7eEDeqGxNH-TvE-w8UpeU__mK9eRf2KfXUBjOp0divMU8jjod5Jgeg1F5P8LVXLHyNCc5ooIdWSQ2dJF1mdz5YlaZDTX61iLJx6zAAYApv-cCm0GkuR-LmGmuthGjJjSJoomffl5CUqg1kx7VdQHFGCETknwHuowjROhUzNb2wv4qecRzyddA0vR7uH_wWyL2BEZTcbdMhYbtfi1EG5Fy523S1GXyLwXhOmNFzClmGsxpk1gDmMl5Z62UwyA0asK7gCK0P06BfC6MDKOykUVMysoU-hplAYIu3O6eUg71hySQLaeFksUoNxakcwka_BYDRE3j_T_zcF4M1z9vIkL3tjtaQFGCezzKiB4SaMwYEpTcvGw1Rg6xoAPUOrjLUPmagx1QpN_tik--pnzg8gzO_a7hI87Na0THYM3GI4T-VRZHujMcnbOSv_s0d8MHqYAHTalY-T-OU04qfw_yDi9a_mD6XvDqTg8D-JORsra8vzDIkVn0TyzUaDMiLEGjE1wQZM7f1hyABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFH5UXNEkHg_vqJrBgDOwOMn24Ef0uaCo6n2GF5PqrSE1xaBHAaTKUQoiT1ASMrAvPD8TJulPmNSqLl81rH_Fe-USWL2ODR2B6XCTwomipFOidJPAjU1qgDiqTG2p5yjAc7YY8pXxDdcnPBLWtx3ugWv2ak7eJiOCtTfxFgWCyb8sK24z-IVd8HeobS1ensm5Lc5Jz0Y8IjgoIwRPdj9hBn5fekBh_80ir9q6JulQm5vdjE2r1UZSIXzkZkqzMiIaw7xovtfO5k4W2P1U7F51NOtpRGpIGWaIv8mCRNH51fQXM6fbqYVROuwMe98zDd-tPmRgA4W-DrbP1EvUlil7U9jMC_zXmtrhTEwGo3BidBh9BcG4-xErZUChQ4D_JFlK5e1YwagmiHhGy8sbufo3zXl08Nurn9G2-j5Es44I0_ssSNOG55LoGBDDCzGjopjz7txxWHDUH5Ebpqdrn-B1cr3db9NxuLxQdxLBNqCRJgtUmgv-IZzgGzF-z9QWcxmndg-6b2kd5T8Pmlej7RQ1dUVJ-VZOc_phxNbALJad624upC1JCQIN2QQ4-5XnxT55mdC4x4lUKVDV8VB0pvB9dr6-3zxDTxUwRIlY3a5IC6pAVF5T3WzrZRQEWNlxKzQ5tWU7h44eU0qGtgAfCz1b35aCRHXb37CMGvYH589p7-7bLlMLJkZFaHeHt9PctXTIzRv4kLp4wU3n3aoNoV5ndlBfZsD2VYkwgw5AHa1YQn_JOy1zrnm-HSI0OKH1X48dnQ7MXjyWmKNT22p8OHC3SnKHPX8QG5jVpA1CMcXc7RF89Weyo8n6BWtNhA2-mpLZTAbMBuvmtWbiE-nLxIJWyrT8vCJpw0VQUMbszEn9Vi487xGU1MinaPL2cNC2UisBFpqC8Lp6xpyfi0RO3j31Al3gr10xl7EaB4OhCT7uVPB4Hwxy-kIKyCRq04OjuemlnluYUwbwxVZUXCM88lCScelXF7sQaDKGtzOb_5q2Inc4YxSABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQF0SduC3z3HFXk0NcsF3mgRpLi21YVjoWJrHIeoKMCUmaBECoqGD_uEOnXrdmufCOt3z3O96Eir9t8EJy_8kZ-tGvhOFtj95maCzCQY9UI0B_lUTWI7dNAL2oZNOQhQDs_WsHnFDMEaSWpz_9DSqqunJYvDfO65SMkU3663_sZ-u70cPOWuypR5Fsl1AE2H-8LZDVHd7f-imQ2DC12hTvLIqFCvoroNaODFh0MIjrF2RHIfIKcS_aeBRqawKddKrE8P9xDom5UX5kWCz353JAdfxSOrJcEFYTzjKy1t2jMUDD8VNVOMhdp9qSygjscmy0hkZegjzI8BcfQucrvwdwp8FrapHYYnIajFMz0gARnnYGwFxYtIxvFnDt0GYqLJerzUVx-k2o2XSdZx8pxrHDZbB4GwtzrrlXkxg0G0BcGyQHv7K1O7mqHVpnITBArorUZOgBhwkEXVXs7nSV-2VHsbg1j9dMtgmRVRGfkAwDbsgn_B7nnSFs2DUQt_9yrWbLFyZxFLtNx7FkmAQCRlelIx09gCd-bZ1p5mZhVr8SVpQa92u0vJ2aFkD2uCCXghOVeYwGKJVq-yNslcOfodQJXGaxBgqNpKvwE2Br2Un3S-JIDzJFnca1JvJI3btCRv0cLv1_W0oLuubo4yDnzRojoXMlg4Dp8iQV3BIzRC1jXDePBAiSVRF-QGfbW0NMiCHFZCskX_waAdf5KZQ3aTvs2-dkj9q0pPOnWNlI5dzLImQYZntWhThp-tDEtU9kI_OZ4Yc6n50jreaot8G7U3nh3g3ZgeHFl8mZ9yEnavi_9f-W-eyPcYW70d718IWLUG1agBnW6BHH_gCppA4BDZh_h2EP3_e4QJbDT72vCK57W_gHWts7jUFeXKnGqWiHAIAGuIe2P6Mj_ExwIq74lUy9MA9qaWMX26MqOIZeVzs2XIgQVpFTe9OgdlB4fiBVRx_wt1cIkTEoxawS6YCSyBjRZMv9mt_IaDHSe-0HcLR8ccQMjeyABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQF7OY3jpkXvYJqQfwaU1EidywAJSiLoPsZRM8NwndzkwPB8-GaZLzqfQU8QnIx94gzN1wfIgfnsIvpQn5TIgYa4_LSA2_R-3jp6r1eU8VierEIU8TQ7gfWWR9IprC8rqFYSKHDk32dppc1tcfhP77tEcgGIibXsu6vLloTJ2ZJjSEraJ83uot2NbrPsOThyKbToyR2C32KQprJBr7K2X849uyhAp7nufYFSmHcgx5olEDEIr7vYTCScXQgYzcMUfOY_KUgA1GyKHa_tOA1VxzrYoOy8zcVzZ0JD9rVh6v774IH1JyD10bmhYKBFyW7TCcrc5arQfSOUuaKe70VQmnf83pZ6PU9oK6URie_t8zBHRqEN9NqHQXl4dcbaC6hRApKJ1OX1ze5OJ-JvUW8YFcaW9NiJTDX0q_17epqYj6xO_ivpRX6PilPJXQcOFu7Wo5Nm2J_v9B6zCJv3ZHSPTsTnNZ2nXcbilklaLjWC-_-uSdAPcZ-ag9MaWsVNda5-2iAuAQfmxajKZek43gneLEL4vmFL0HSXYtjbLzMdPs6C8mGaDPdyQoYlv2YZZKWaZnOg93wrSrp-VBHaTXl8Wnf4494gnMGqLhOtV0Gfgv5QPjwEDOzMdf6D2oLbtytMhaPnIEo10NBRHB4kEJTTFAMWAUZ-oMR4sU_22oP74FNws97-mTF5HJ39fOzkUO8sQtduIR31SXnBmujWIA0IrHo6B5ZblXgX7VE7cYezCHYWyVlvgNKpjGVdb3oJYtG9ierLbL4B8BYxHp3ZapQCHonsy-vPodPH-Xk-6jhftIGd9Cn5ss_gDtrLDOp6ceQ9_63a2LrO-I8R1jqYgsdCmMbKXJVN9NQX4o8ALJ-wJafYVhzH6y_zUaEmt4hQgRBSkGbN3X002XEK3fqdsw-UVDtxVW0Fnum_6d6BbCZdzdOEtWNjE7uXAtv4q-aie8TSufTPcDSLpAs47cougKrAH8PgPAdClUaDIjzi58XDFhsaz1HaiABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFH2AXZ7KDJGbNjtHY_TerkIlNgcjtyF4yjMj5JQpwO62hKEUI-f8bzS560MzlEkxTRn4h5v7Fono5YogdB9-ZkoUJ3SeTHRxFue82rEw-OrIjzDKrMWYHifjtJ6VrGdLyiB6Jf-J_lfKtP6Ix-Lqo4KacXLDkmXAzXaTtAvDzqcx3o3ZHMdj1mF1UL-kNC6Jl3NybA2OzMZ3_06F-38YiAftaArMux9s0gRIiV0B0RAb_yKVfxpCemoEszUsDhmNN1AbVzWbw-YdJAdGhZgtwOGeMze-OernLL1iZFszvQBdB-GuY6nFwaNmmg3RrwG6Z5WilnHBPslNeHFr2Oyc0_VYmDknU7DIv4Yl1I6asjkLLk14rqhDCgCR9Mu7_9ysI5xeXFPVFVBHPebpDvr-E3HYtu5lOepa_KCEMO5a4WAPz_lQGhOaRXYImvhYja7ZiKRnLZ1EomVX21vIm5JRqiwyu8vmldu5PkoiB1S4vbxpP837nZsCBwh6DBtAdEppNAHQTMN-x2ceU0SXXQ8R3uf_IdeiXZokOphX9KUtgvi8POWrjzETIbJCmoEavIZbZ5iHyqtizInzayfXfV5mAEhYrrEYB23WR-gta1Pz7NAJcNbMo93T67hYmHNeX5zEP8BUPqY0XNQG9EgfFXhypyS9nnU_XLrcUAcyM8VhDGz2ZjZET7PxPeEsOyvTMNxjZQ9xCCSDLFyq4AAtZpX4_5py_vlE19IoTDEizchrubqBFyH2LFle0vqjZrE3qKOVRiGP8i86GrmSdGcaSPZmtMpZw4gVjrScjxopaq-IrgZoexp9-FIs-7WA4CFtArIvjxWkr0VQspjvEDhPpq3lozn4L58IPvrf9Zuzdz9JC3Tx0vd8Gxl_1tl3kAwWUgh_x9U81nkpDqyr8rnUKBtUfcPbCT_Ua4cBWoBFELBPe4BvXt1D0Ejp1tYSrXtqHsXpCcRO9RL3Yu_UmPStwcDL9IigmdxcaDH4ZIa80YsckHdXWQCABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQF0VgBNzaq08Ls8U3D4S2Okl59JTCyZEmDYN2HuvKTWBKWyI8mIdE_cD6rKOUsGDIOkkDhwxI0n7Jm56SDrj-14xwoas5cSKb4dbwH2KEApE1tIOME3FxOmCx_QSPm9E0XwwxlccYsLnACQWeYg8wGqFhC_0NwpG-0uN3TA61B9uGYy0u7OenPdb6vhbuiWE7nsT-3HcV-SMq2Q7Py6TFyyrPBx83y93KB3rqmmJUuTGqLvhQi1cqHyOKv6UyZgSiU-SLvygu3SjuozfyLTPNAz9dnPMvr1dQV493XXmtRULrM-hUaDNiNaFxw-ssxqHdqyI-YI6TjypIo6tjkXNOdsSMw6gbr8r_PXdwVB2UfTjPRzZ1hcRjpFyXqi_rJfTIYQlv2VmlCORuzC1zjHnArLciWF9PMZacxug347_k58xJJ77YGwa2eOy0qk_J8KPjOblk5cFo73jdNt13U3IOBiy9DmN7wRNJFlcusxOjQXITZpDK7D8l066conweceQpFFIAbzNHfyE5PRxxrYCAGz9_Q258cy5ck-Zhogy9aCkPoWvl5lhJPmWDX7J74jMN9QtgQhOE91TyjCV-c-u95LN1r9kg8hl1e_a2uJmLaeI-FhzBkaWj7H2F-bTuQGDzeQldWdQT-brYDIS06BGWvq3rmhoaeEaVki1s8uB8GflWcuIuYSZA-SsGfDe1d9CQ34P56MuB6qZkRYU-8BGOj6E6CZ-Vcz4q0lGijGfhOGWIqoH-x9fyMKaPJfEE34cx_W9b11V-KX7qd4WGzsqVxnMnnEE5JHHOt_0j33CN_Piq25PfHIIIYrDdQ59r5A8j8xG3P8ckiGslFeqnqoVPZBv_pRz_Xu5RRCAZlb8nt09IgJsBmk2Y90plCprR4tv8kG8iLOmhrIV4KhIYc2keXBvnhhdtPAHDIeWfLfBcHUlbCS04Erm4W2JkOdNYoloYtmBZhmbpI8RVfqVzN71szDdAaAw8aDOjy-RvLvm-EtVkk-SABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFULzjlXfidoYIn_8UbEN8w3_LuNgdEsaDRvd2ABS5I08JX3CkeU_ZqbU8tWbTTzvAxZSASrmV4gQsnRU_UjUPWxhAqb7eTARIe0OWKKMujetrzTx5t4QclJeoEHBsKJFjAGRMR5J898MpjTUhHgK8wMCNMLlSabsLpci7LALNMpj6E9pNWKKGIWe8jsNPXP0fEBfxPkWF-EsxWf45BxovDgLNYLtGt13rBohfe09pQvFAf6ZlN7voFgPdt5Ghqw_eBlJPw7Z_PnGQl3d_Ua_qJqqO5kPdKPn5htVnE1iw8hbTc63EViMD5xLWEfsusPSLUdE-mamwtpAEZRmpPnVOr63Csma7bhavbyXdopJlDg2NV0ku6_aHJxmzSHPr1VDKn-NXyuIbgpEezSOgGNrirH1s6-61uDkREygPWZFlyPNGxHdpnWtvJI9zrMPtaeT71tQzavQjhj9mX7FcNzqkRyM8rzdnHKzOCuIvlBj4ywOl1_mS7drJHe9aMUh7MaCV7QcsFTtivqfz-_oAd110sThC7ivKE3k7Ke6fwxEsqDT-TEGew3wGQTV6Xuq_vcQTplGg42K6Hcz52pEUKOB9iJmrOsHgSk1SB9pHeSBSGFKK7GfpGSV6wHBS6OjkQwGtyNdwhlle55JXGj497Xr7PGvYDfvABffsJXmI_mX61qc6ileDF_1k9-LQOqt5F0sdHgE6R58GhV7YSVSThRcregjqEnOr_NCT0ydp48yt4waLd9kfXF1-dXv3VWW-Y6O4CPj4648wfqSyXf3UDyf9ZnudYkU4BObUHR_plmPxB7k1lV5T7yGuys9cUXr_pLt-_HhfGhFGCGek-KpFC2XROwzWsR1TBNKYPcoZVAxw4kSlKp8tvAKjA3Nw5oSKQu77jl1UvsK324081MlTML3QkCJ3UJWeLw5gto0KZsYw7FkBuConyvFSN8hFwtB6nYWRq7qV6SbRsUx3oh64rVx_ZbgXJFoaDFkcMtR3ysSErwXhoyABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFQcnpapXJF2n1c_SjyBjohhj6KLHnPa6afM_N7OD2OQyJ0J9uKZfZFaSRfclGv3weBNfpqynfpI5-AOPqq3KJMjrir6QXIDRn3sC9HpBvQn3fXB2RoVAUpjuNgcJpA1hTNDIP2oem1Eyal_DTGeIqHMHSH4h5_OYNiXkqCCC0HUGqYDopW-3L3snf1lxUgzPsxHEUdtucskrGWjbsulbsLWtcasK0rTL6o5luFcUHW7TEF8T4UppuYnIEn9l4SSB2OrPucnUvJsKQvnpVdoQOUQC5_eJ85KMcycBJc5hkLPHTp8iU98dhNON90C-vQUi1ISG12LQbX5J6ZBWwAt1113FRC96BjhVZHQ794uIbrh7lRNagEtQOi26tjDa2Op2OcRUyHgUi3hQE3T3zNvVZLXE2gOuf5dN_nZvz9pzlQCRnFBiv1IO0yJ-K0zYYdqF8h_jeVOaT084hYDEx3b_LyuX3oLwWnpJ1qvLRO56bkJrCSAOdTBqsSOodB3hrpbM3roC2X9ImiZSyThMpVHkSQsobPt6J9-CxW6o-fw7amF2HBiW-xN4cnwrD9UuwO9QYpNZ4ETYLPqceHpjVFVH8WyvJSAfqIiHx_MrSo-Vd9y99jAfMPO-aWHzaMlx3AkXoUm1myDBa12KUK6lxoa13rL3eWCBfV_hRVqll4SXfPOOCevM7mymdLBDMXlG8t4iVfyYf7eFFc9JHrL1ChIKalcSNRjPtHQJ2BBzRMPvWPc9whwNqLw-GrvfYpfAt_RAenc2cc_AHhmI_LbVfSXigO7OIlHm4phBo5MlPISyIqzr_QVWzmzie9pSxVfnKZcmxoW7mBRIZgcsqiVUw3pAcFyRK-uwBEucOuuuYFa0lnfebTfND-M6nlgA6femqAsSConZoAbY_1trJeBB4AVfE99HLv43Jg35LQLt2MlcMDKsdKBgr9Yq5N9qXFHOgi4lNGf0uVpkIFN3ZvQYYUQRow4NKyBgaDHMXODqZF3eeNB9xTSABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFOMd1CItosqG6Wv7_OnXSNjLKAU1TT03gF8g8BVC-LfyD23dZogcklcSQ96MNbSiqsmOTcmv-cGRMlegqOZz5QNHvQWnBD0PyKvYN35sK2B-t9PYU4EUYWEJ4-rx5H7C9YZG_-NF9731Tn91TUGqftGb__RfTY-zrwgx9orVUTT4wgrivgq2pkYse39HSJ3Pt3KA8JiS4dqhQFV9OyqTuC9OR1_MZDDMNWa0rhRrD8EzdfjT_AsVc3cXYgU0dI_JxWHIAJYjyq2WHqf2rzDMXQ72Go6_XFEfPj6cGm_bEuAv6WKcPfi0AecP3sEkIJqFyT1ytVA0UntqzOWrijvFNMxo3nwIizQxvyx8rYhck4KwcAZS3TXSjMv0hm17564HQ2n2buFi7isbdjcNVerYDBp5yROAipcbnORwTmexrMfSu9hWrZ-Bgs5yosdkhLt6wC7kgJWHOi1KysLGA6Ryy_hclz2HFeJKcc1yNydByDwzI9VCe9Yb0-tqgOkoOiZHTH-ZJb1nOCSySRf8Y4Ex1DJzuATDRlRiJ76GUjDankM7x4_nFv_gKpseqtN7TeY8Fhrgcm1MPITK_8ZKjNA_5b2SBT3qM50RrpkQyPSwQXbkk3bTsoJQ2AxFcRC4mlEM5d1zAwu-6SOvJYEy0388wONFg-7XkPTd-SHTZk22RHRsbOqwsJMYyvjrT_ykTxRWMl_wGXJ5w7aW0fM2zpXmhoVvu_PhWnZrtGHCX9fsicO-pw3gGg1uCPw9VHSR2ZAHrMhrzRGdeGdQViCI1rrRLY4NSD5_HoE6fUnYIhNYHTbIcHXfK80M9ROLEykkfu3p6ZZ3nx8L_EkWYNBbvaAD20xUdobH8V6-atCwiglxMRDNicUhkQCm7SxXYJ7Nj78lBqAn4AL-w72otp1emye3qnNvIW8rqKrxGzvDuKgBekbdSRZQvMuoz4WwR8lKI38wn3Eq2EuJtHIouFV9J5LREbImXLrkaDPFkKeqkmpl9tWLxLSABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-PROGRAM-DATE-TIME:0001/01/01T0:00:00.414Z
-#EXTINF:2.000,live
-https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFahU5JyKTDSSVT63kx2ELQ3xItzW_cUzRav-0JsiW6MxLxNNdowQKEkDSsOmREo6VShfhyiA8I5oaqjkRRun8nmD7p9PHl0izuGgrd8c_m1bkc06JEMOqTXflHymMlChaQdOWcKZ99oddh2_gFOCUhp4kdCPDYKIMf03s2wcyTqIxV3L6l4bb_14oud5zO_mf5lM_nxBSuLihFJDqhHI7wFKC0Yh5PE6yDOCDwgViUFNU0czKTX_KhjaTgofWAR2eaXREeYp-FkWtszNhJYfmcMCmTnLncm4dLpcDUc1LOFCSzL0BaTQPe5UINqreEhpCwvIbYkOtviI44hOfGHJwdx8jOhnycAXf5YkWu7sw7YHHwnSbHAAujCycRZA3DJMI4tRxqOrmfKVWFmfLAP1tIgoZlzDF6nPUOLo3HlXWPZ9UlZB-Na0yIaP5bvzODJZbQ_iiHIaFfDl6LxM5s01Bm8UJyR-iaop4WnEylOq_sWkGuET6dLTAPiSMnQbJOhL6gFKkHrcjiqlwm2AyCtvJ9FM6r8gjTAeRPQu2CQXa3sIDFO43avyvEvrejF7FHMdCY1HeXUgNxOj9Tvu6hDqCzw1k6Js-pRIPOWyHnMftyk0eDtNlmnenlV7AF2GqLQYskU_YU512nSOTzUJTGPfzI_dqhe375FxzQ1qMOmzSt3nRGuQ7UjT8vh96OOANsvMmIz357VrZKrlJ0vNrDfQrtXPE0XAWmUe9ORIgVqPNAf4SF56azlOKDhfuV--vKlJDXjqbR_fM2RhQ8RlbNqu0tqK1m7BzzS5g-LRUYWR0vNOlXaAwDVampgXoNUVoTNRo0EJ5drruxieZ-dYn1Qk85OnsHAR-dbav2lEwxRykhBC2tSptrvAPmM98dyBdqvEANoU47iRnQNCTYloeKJv_yTsDHuzwrVMKrWz8o8JCRrCndNKc6o29i6pm-kiRjpE9W4_w4Q4gea5Mm3V7sxAkaVoRVuQaDGyewwxu84F8rQ1MPSABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-TWITCH-PREFETCH:https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFOUTXf-HfR85LhjR-OCuYSDKSiPn1WZcFxJo6HD6mPkawI9YN-RaEd3D2PxLU-4IB7iFJsV60PXc433ulHIYlVSeiwURlrx50UnwGCMxctKxp7-QfifdMZn4wKZR4wK6wikA0ke8Ds14-7TrQbflnWI1w1-EbNxNsUysMYDchR1D7G7BfeXyPKacd9MLayBbqp9sDaKJdI79ZlJ_a7zpQ983I2O3bVX8aLvkm429BrO6roGe2uX2yBRr_cv-hXgy4KiDvAnqrZBYAJZ_QT-D_dQ-HEUNMoPJt1ryld_eLlua0lFJoM11idbGt-R_hSU6XZepOsvCe22P_CVFXKUGUk7f8TZsTkJxvJZQ8pEq1Gl3eXKHPJG9evNxSsZx5gaMWLaJgwF31wExUOMmayqkMpbbK8s2feT-4cbpOr0SLTu0nQS3ozHF1vOpxJlOHsOxWPhP3qPbNlS7v_9X9BSL8-RcmKQECq5BbHUPjGLdKqi65_XfUFdXpf28a4oU26x9neq38pVylmVB9KVFTv8g8DrJnrRDl5DlCmCefJMyQ53BNV7VNbRpQSvMU8ChTyOkKIAZZoZkBa5kwZ_0ORoZNCXfjDMDa__iT3Nozmx1bnX3ec_EeG3m4HePreArVBV2Znc16HtzZdlipY6AaTE15a3BTbI1u5kZ81-aa4qtQZ0OACGo_8yUAOgI-8PsD5NQNt4yHCI3-fFd74Qrqk83iZcC4Yi-fliy6YRQ2FNulDA506JMUVsUgGf4tn4JDFNZyg2iNQvOWMKIFjolPNLiwQ4nD4F0eUmK0NrHf7ag1yX7q044whp41CZx90y3ijCJMJ70YM4HPOLoa8uVoAn4ddPaag_n-Yo1zVWUDqHcuQNMpIhvUWNs20UC2pgymcK0_C63r0vWJlg_nDigkMP9mlzxM5Z_qWpzjlLfNGxMcYgoBVtH6y1-7T-Y48OTMfwDptLgj32B4RIZe2kjz3rgbAQOXUBEaDPmhBYDSbOGrAfHB5CABKgl1cy1lYXN0LTEw7AY.ts
-#EXT-X-TWITCH-PREFETCH:https://video-edge-f2bff2.bue01.abs.hls.ttvnw.net/v1/segment/CuQFfQAu2b84IOYDS4DqhV-NMDb-wPSEUuE_4uNomzgiamapEKPFzSGNM_H3D2GRiZu-iDbcyaAW8aH1yP85WbEvLirgqbCtgkjDEOM4-ifOFGW6XgVNHycHEHKFKbND8unz8bXoB-WZl-j5bc-GxDQUgdeXxhxoBGZ2SZpyjlCDP8aVNAU0pGn4xivZQmLnL66L8-jCfEw0S9WUOrLbfoRoG7XRaLLZzBC3m35DNR-huROtfmCx2-NY196CF4-Av-sSrV9MGhBaPq_5cxb7_iepjNIpC0cWbd7bQK0lFBqKxqnAsoPjJP3rmAS2AwZgnWdJoq4_r3TtU10aWtP5SvoUg_-27alEmNxWY8OF3Pdiqwi1_Jiel8fOubGxUUQyM7l2PPCOu5HiFWvJs_ELlvGtzvO0gsIMrJ3jy7kyi7-c-qLt_B47YDYQq_IkejrMFexvdXWwkMxQzYbVrTUOwIpKz_s7KkFgIzZ8b6OpAEw_MqAUu3nowQdx4BFK4TjCkdbp63Pw9wrvCQ6mzGjojWp-9bIOJ2BKIi5vooVFMI6CMiMot4bmXKyswqa4k1dRT7cZydgRH-wS7IRZuJK9HSOTTm780SwTg2Mj7vnJ6srx7tNyyACmK9iurLK_IW0Qa8AClAy8i9b1l9AUJavPzCeagVEUxTgXUe9_mT5SlYWtqdxLntiNqpWPylpqRUsRCuId3NfFfHKzfmt_J-RCyGqRQTstrpuoH8mgD9EYQNzv3h-1WQyUYeOjkNnjSj07nRnRESsmHRzRTftZ-cl7y3teyeVfQRDsDtXcQBzOwrPH2bvP0Qg1Y9gdpQSasfW2lOX8yNFLk5dyUOg-khgTTBdGIY02uh5Klb1bGkN7YqGMmSw99Xl59PMN-RT3q1TI5dXrrHBlvhKWsMWR_YH50fqodaR94yCty_jpQmG_7yKjdJbTYXkhV3K6MsNuj0g6afoWti3mu5RqtapNXnEqwYo1I8_dX8caDH7mV9yBThYt1Q5jWCABKgl1cy1lYXN0LTEw7AY.ts
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2015-01-01T00:00:03Z" publishTime="2024-01-10T15:31:27.644990Z" minimumUpdatePeriod="PT2S" minBufferTime="PT10S" timeShiftBufferDepth="PT2H1S" maxSegmentDuration="PT3S">
+  <Period id="1" start="PT0S">
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="en" contentType="audio" segmentAlignment="true">
+<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="3cec1b1e-a979-9dda-5596-e64f37e5ed20"/><ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" value="Widevine Content Protection"/>      <Accessibility schemeIdUri="urn:mpeg:dash:role:2011" value="description" />
+      <Accessibility schemeIdUri="urn:tva:metadata:cs:AudioPurposeCS:2007" value="1" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+      <SegmentTemplate timescale="48000" initialization="TelefeHD-$RepresentationID$-scale=48000-init.mp4" media="TelefeHD-$RepresentationID$-scale=48000-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="13671508041683" d="96256" r="3" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="1" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_145200_eng_DESC=20002" bandwidth="145200" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="es" contentType="audio" segmentAlignment="true">
+<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="3cec1b1e-a979-9dda-5596-e64f37e5ed20"/><ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" value="Widevine Content Protection"/>      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="48000" initialization="TelefeHD-$RepresentationID$-scale=48000-init.mp4" media="TelefeHD-$RepresentationID$-scale=48000-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="13671508041683" d="96256" r="3" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="5" />
+          <S d="95232" />
+          <S d="96256" r="4" />
+          <S d="95232" />
+          <S d="96256" r="1" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_145200_spa=20001" bandwidth="145200" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="und" contentType="text" minBandwidth="10000" maxBandwidth="10000" segmentAlignment="true">
+      <Accessibility schemeIdUri="urn:mpeg:dash:role:2011" value="caption" />
+      <Accessibility schemeIdUri="urn:tva:metadata:cs:AudioPurposeCS:2007" value="2" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <Representation id="CEA708_TTML_und_72971=30000" bandwidth="10000" codecs="stpp">
+        <SegmentTemplate timescale="1000" initialization="TelefeHD-$RepresentationID$-scale=1000-init.mp4" media="TelefeHD-$RepresentationID$-scale=1000-$Time$.mp4">
+          <SegmentTimeline>
+            <S t="284823084194" d="2002" r="3596" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="CEA708_TTML_und_72972=30001" bandwidth="10000" codecs="stpp">
+        <SegmentTemplate timescale="1000" initialization="TelefeHD-$RepresentationID$-scale=1000-init.mp4" media="TelefeHD-$RepresentationID$-scale=1000-$Time$.mp4">
+          <SegmentTimeline>
+            <S t="284823084194" d="2002" r="3596" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="CEA708_TTML_und_72974=30002" bandwidth="10000" codecs="stpp">
+        <SegmentTemplate timescale="1000" initialization="TelefeHD-$RepresentationID$-scale=1000-init.mp4" media="TelefeHD-$RepresentationID$-scale=1000-$Time$.mp4">
+          <SegmentTimeline>
+            <S t="284823084194" d="2002" r="3596" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="CEA708_TTML_und_72976=30003" bandwidth="10000" codecs="stpp">
+        <SegmentTemplate timescale="1000" initialization="TelefeHD-$RepresentationID$-scale=1000-init.mp4" media="TelefeHD-$RepresentationID$-scale=1000-$Time$.mp4">
+          <SegmentTimeline>
+            <S t="284823084194" d="2002" r="3596" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="CEA708_TTML_und_72973=30004" bandwidth="10000" codecs="stpp">
+        <SegmentTemplate timescale="1000" initialization="TelefeHD-$RepresentationID$-scale=1000-init.mp4" media="TelefeHD-$RepresentationID$-scale=1000-$Time$.mp4">
+          <SegmentTimeline>
+            <S t="284823084194" d="2002" r="3596" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="CEA708_TTML_und_72975=30005" bandwidth="10000" codecs="stpp">
+        <SegmentTemplate timescale="1000" initialization="TelefeHD-$RepresentationID$-scale=1000-init.mp4" media="TelefeHD-$RepresentationID$-scale=1000-$Time$.mp4">
+          <SegmentTimeline>
+            <S t="284823084194" d="2002" r="3596" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" frameRate="30000/1001" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="379968" maxBandwidth="2499968" minWidth="416" maxWidth="1280" minHeight="240" maxHeight="720" segmentAlignment="true">
+<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="3cec1b1e-a979-9dda-5596-e64f37e5ed20"/><ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" value="Widevine Content Protection"/>      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="30000" initialization="TelefeHD-$RepresentationID$-scale=30000-init.mp4" media="TelefeHD-$RepresentationID$-scale=30000-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="8544692525834" d="60060" r="3596" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="avc1_379968=10005" bandwidth="379968" width="416" height="240" sar="40:39" codecs="avc1.4d401e" />
+      <Representation id="avc1_579968=10004" bandwidth="579968" width="640" height="360" sar="1:1" codecs="avc1.4d401e" />
+      <Representation id="avc1_899968=10003" bandwidth="899968" width="854" height="480" sar="1280:1281" codecs="avc1.4d401f" />
+      <Representation id="avc1_1499968=10002" bandwidth="1499968" width="1024" height="576" sar="1:1" codecs="avc1.4d401f" />
+      <Representation id="avc1_2499968=10001" bandwidth="2499968" width="1280" height="720" sar="1:1" codecs="avc1.64001f" />
+    </AdaptationSet>
+  </Period>
+</MPD>
